@@ -1,0 +1,7 @@
+.person{
+  text-align: center;
+}
+.name{
+  text-transform: capitalize;
+  color: rgb(131, 255, 127);
+}
